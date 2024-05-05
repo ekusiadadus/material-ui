@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.7",
-    "@types/prop-types": "^15.7.5",
+    "@types/prop-types": "^15.7.12",
     "@types/react-is": "^16.7.1 || ^17.0.0",
     "prop-types": "^15.8.1",
     "react-is": "^18.2.0"
